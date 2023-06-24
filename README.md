@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @pxenodev
-- 👀 I’m interested in: Html, Css, Js and Php
-- 🌱 I’m currently learning about JavaScript
-- 📫 How to reach me: dsc.gg/pxenodev
+
